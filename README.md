@@ -132,7 +132,7 @@ Once connected, the devices can exchange messages directly.
 
 ---
 
-## 🚧 Current Status
+##  Current Status
 
 Setu is an **experimental prototype**, not a production-ready messaging application.
 
@@ -148,7 +148,7 @@ There are still many things to improve before this could be considered a complet
 
 ---
 
-## 🗺️ Future Direction
+##  Future Direction
 
 Setu is the first step toward a larger project called **LokSetu**.
 
